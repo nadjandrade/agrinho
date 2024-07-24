@@ -1,0 +1,28 @@
+header {
+  background-color: rgb(0, 97, 76);
+ text-align: center;
+ height: 100px;
+ 
+}
+
+
+.titulo {
+    color: aliceblue;
+    padding-top: 25px;
+}
+
+.unchartedcapa {
+    width: 250px;
+}
+
+body {
+    background-color: rgb(0, 161, 126);
+}
+
+#div2 {
+    display: flex;
+    
+}
+ .foto {
+    padding-left: 150px;
+ }
